@@ -24,7 +24,7 @@ Acredito que resolver problemas de software exige o mesmo método de resolver pr
 
 ---
 
-### 🧰 A Caixa de Ferramentas
+### Caixa de Ferramentas
 
 ```prolog
 % Matriz de Habilidades Técnicas
